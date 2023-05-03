@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+ 
+}
+body{
+    background-image: url(./assets/fondo\ numeros.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.btn{
+    align-items: center;
+    font-size: 25px;
+    text-align: center;
+    height: 50px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.instrucciones{
+    text-align: center;
+    font-size: 18px;
+}
+.container{
+    display: flex;
+			justify-content: center;
+			align-items: center;
+			
+}
